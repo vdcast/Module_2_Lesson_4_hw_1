@@ -3,7 +3,7 @@
 
 Resources, styles.
 
-**Technical task:**
+**Task:**
 
 Create a menu from a TextView with: font 24, bold, color white, background black, all paddings 8dp, bottom margin 16dp, layout:gravity : center.
 Menu item names: “New game”, “Continue”, “Options”, “About”.
